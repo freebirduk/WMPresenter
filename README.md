@@ -27,5 +27,5 @@ So Weather Manager provides, or will later provide:
 
 This repository reviews all the data already downloaded from Weather Underground, analyses it and creates a range of displays. These are:
 - Current conditions
-- Analyis of a particular data type over a time range e.g. air pressure for 2021-2022.
-- Records of extremes e.g. higest ever recorded temperature
+- Analysis of a particular data type over a time range e.g. air pressure for 2021-2022.
+- Records of extremes e.g. highest ever recorded temperature
